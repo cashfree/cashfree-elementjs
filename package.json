@@ -1,7 +1,7 @@
 {
   "name": "cashfree-elementjs",
   "version": "1.0.1",
-  "description": "\"Integrate cashfree dropin sdk\"",
+  "description": "\"Integrate cashfree element sdk\"",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cashfree/cashfree-dropjs.git"
+    "url": "git+https://github.com/cashfree/cashfree-elementjs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cashfree/cashfree-dropjs/issues"
+    "url": "https://github.com/cashfree/cashfree-elementjs/issues"
   },
-  "homepage": "https://github.com/cashfree/cashfree-dropjs#readme"
+  "homepage": "https://github.com/cashfree/cashfree-elementjs#readme"
 }
